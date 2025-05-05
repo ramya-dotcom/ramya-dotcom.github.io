@@ -22,7 +22,7 @@ https://ramya-dotcom.github.io
 
 Connect With Me
 
-LinkedIn: https://www.google.com/search?q=ramya-dotcom+github&oq=ramya-dotcom+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYQDIGCAEQLhhA0gEJMTEzMTBqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8
+LinkedIn: https://www.linkedin.com/in/ramya-ramakrishnan-125320155/
 GitHub: https://github.com/ramya-dotcom
 
 License
